@@ -3,6 +3,10 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="/w3css/3/w3.css">
+  <style>
+h2 {text-align: center;}
+p {text-align: center;}
+</style>
 <body>
 <section class="w3-container w3-center w3-content" style="max-width:600px">
   <h2 class="w3-wide">Automated Build and Deploy (CI/CD) </h2>
