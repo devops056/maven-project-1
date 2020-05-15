@@ -22,8 +22,7 @@ body {
   background: white;
 }
 
-/* Create two unequal columns that floats next to each other */
-/* Left column */
+
 .leftcolumn {   
   float: left;
   width: 100%;
